@@ -1,0 +1,36 @@
+{
+  "name": "jarvis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "shard.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "keywords": [],
+  "author": "hijazi",
+  "license": "ISC",
+  "dependencies": {
+    "ascii-table": "0.0.9",
+    "chalk": "^2.4.2",
+    "cheerio": "^1.0.0-rc.2",
+    "convert-seconds": "^1.0.1",
+    "cpu-stat": "^2.0.1",
+    "database-js": "^3.0.8",
+    "discord.js": "^11.4.2",
+    "enmap": "^4.7.0",
+    "fs": "0.0.1-security",
+    "http": "0.0.0",
+    "mal-scraper": "^2.4.5",
+    "mathjs": "^5.4.2",
+    "moment": "^2.24.0",
+    "moment-duration-format": "^2.2.2",
+    "mongoose": "^5.3.3",
+    "now": "^13.1.2",
+    "request": "^2.88.0",
+    "require-reload": "^0.2.2",
+    "superagent": "^4.1.0",
+    "truncate": "^2.0.1",
+    "weather-js": "^2.0.0"
+  }
+}

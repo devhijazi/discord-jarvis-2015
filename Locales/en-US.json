@@ -1,0 +1,398 @@
+{
+  "jarvis": {
+    "embed": {
+      "field1": "Owner",
+      "field2": "Created At:",
+      "field3": "Current Prefix",
+      "field4": "Total Servers",
+      "field5": "Total Users",
+      "field6": "Total Channels",
+      "field7": "Uptime",
+      "field8": "Programming Language",
+      "field9": "Bot Ping",
+      "field10": "Cpu Usage",
+      "field11": "Architecture",
+      "field12": "Current Version of Jarvis",
+      "field13": "My Links"
+    }
+  },
+  "autorole": {
+    "send1": "Autorole Set to:",
+    "send2": "My position must be below",
+    "send3": ":x: Please mention the role you want to set.",
+    "send4": ":x: Please mention the role you want to set.",
+    "send5": "The autorole system has been disabled on this server!",
+    "send6": "There is no autorole configured for this server.",
+    "embed": {
+      "description": "Autorole Status"
+    },
+    "send7": "Your way of using it may be wrong make sure you used it correctly.",
+    "send8": "There was an error executing this command.",
+    "send9": "I'm not allowed.",
+    "send10": "There was an inexperienced mistake."
+  },
+  "byebye": {
+    "status": "Byebye message status:",
+    "status2": "Byebye message status:",
+    "channel": "Enter the ID or Channel Name you want to configure the byebye",
+    "channel2": "Channel not found.",
+    "setado": "Channel set to bye bye in DB",
+    "setstatus": "Channel ready [OK!]",
+    "msgset": "Message set:"
+  },
+  "welcome": {
+    "status": "Welcome message status:",
+    "status2": "Welcome message status:",
+    "channel": "Enter the ID or Channel Name you want to configure the welcome",
+    "channel2": "Channel not found",
+    "setado": "Canal de Bem vindo salvo no Banco de Dados",
+    "setstatus": "Channel ready [OK!]",
+    "msgset": "Message set:",
+    "msg1": "How use welcome {member} to {guild}",
+    "msgerro": "Message Wrong"
+  },
+  "prefix": {
+    "send1": "Server Prefix Changed.",
+    "send2": "Say the prefix you want to set."
+  },
+  "config": {
+    "embed": {
+      "title": "AVAILABLE DISCORD SETTINGS",
+      "config1": "Anti-invite",
+      "config2": "Welcome",
+      "config3": "Byebye",
+      "config4": "Autorole",
+      "config5": "Members on Topic",
+      "config6": "Current Prefix",
+      "uso1": "Use the anti-invitation to prevent your server from spamming other servers.",
+      "uso2": "Set up a welcome message for new users",
+      "uso3": "Set up an Byebye message for members.",
+      "uso4": "Define a autotag to new members",
+      "uso5": "Set a count members on topic in a channel",
+      "uso6": "Set up a custom prefix for your server."
+    }
+  },
+  "count": {
+    "warn": "Sorry you need ADMINSTRATOR permission to use this command",
+    "send1": "Config [OK]",
+    "comando": "Members on Topic",
+    "canal": "Set in a channel",
+    "error": "Erro, try again",
+    "erro2": "Unfortunately I could not configure it for some error."
+  },
+  "emoji": {
+    "embed": {
+      "title": "Emoji details",
+      "field1": "Emoji of Guild",
+      "field2": "Animated?",
+      "field3": "Add on guild.",
+      "export": "Export code:",
+      "footer": "Asked by:",
+      "title2": "Not found",
+      "description": "Maybe the emoji you are looking for does not exist in the discord or you are using the wrong command."
+    }
+  },
+  "roleinfo": {
+    "embed": {
+      "description": "Write the name of some valid role",
+      "field1": "Name",
+      "field2": "Tag users",
+      "field3": "Mentionable ?",
+      "field4": "Created at:"
+    }
+  },
+  "serverinfo": {
+    "embed": {
+      "field1": "Owner",
+      "field2": "Region",
+      "field3": "Guild Emojis",
+      "field4": "Created at:",
+      "field5": "Total text Channel",
+      "field6": "Total Members",
+      "field7": "Online",
+      "field8": "Total Roles",
+      "fields": "Total Bots",
+      "before1": "channels",
+      "before2": "members",
+      "before3": "Roles"
+    }
+  },
+  "userinfo": {
+    "embed": {
+      "title": "User info",
+      "field1": "Name",
+      "field2": "Account created at:",
+      "field3": "Joined at discord:",
+      "field4": "Nickname",
+      "field5": "Playing",
+      "field6": "Last Message",
+      "field7": "Last Message ID",
+      "field8": "Roles",
+      "footer": "Users descriptions"
+    }
+  },
+  "anime": {
+    "embed": {
+      "field1": "Status",
+      "field2": "Type",
+      "field3": "Total Episodes",
+      "field4": "Duration per Ep",
+      "field5": "Rating",
+      "field6": "Aired",
+      "field7": "Reputation",
+      "field8": "Popularity",
+      "field9": "Ranked",
+      "field10": "Members",
+      "field11": "Points",
+      "field12": "Genre",
+      "field13": "Age",
+      "title": "Anime not FOUND",
+      "link": "Click Here",
+      "modo": "To use this command use command name + anime name"
+    }
+  },
+  "announce": {
+    "embed": {
+      "description1": "You don't have permission to use this command :x:",
+      "description2": "I don't have ADMIN permission on this Guild",
+      "description3": "Say ID of the channel you want announce",
+      "description4": "You write anything, try again...",
+      "title": "ANNOUNCE",
+      "footer": "Send by",
+      "error": "Sorry channel wrong."
+    }
+  },
+  "csgo": {
+    "embed": {
+      "title": "INFORMATION - CSGO",
+      "field1": "KD [Kills e Death]",
+      "field3": "% of Win",
+      "field4": "Total hostages saved",
+      "field5": "Total Money",
+      "field6": "Points",
+      "field7": "Total Kills",
+      "field8": "Total Death",
+      "field9": "MVP",
+      "field10": "Bombs set",
+      "field11": "Bombs defused",
+      "field12": "HeadShots"
+    }
+  },
+  "poll": {
+    "embed": {
+      "role": "Invalid Permissions",
+      "uso": "!poll <question>",
+      "footer": "Reaction on below",
+      "title": "Poll started by:"
+    }
+  },
+  "say": {
+    "description": "Tell me what i will say..."
+  },
+  "lang": {
+    "send1": "This language is already **enabled**",
+    "sendpt": "Language has been changed to **Portugues - BRASIL**",
+    "sendna": "Language changed  **Inglês - Americano**",
+    "title": "Language Panel",
+    "field": "Current Language",
+    "description": "Available Options"
+  },
+  "ban": {
+    "send": "Jarvis is not allowed to ban someone.",
+    "permissão": "STOP !, make sure that the `BAN_MEMBERS` function is activated in your role.",
+    "reason": "Who do you want to banish? and what is the reason?",
+    "send1": "I am not able to ban this user, check all permissions there may be some problem.",
+    "embed": {
+      "title": "Ban",
+      "field1": "User banned",
+      "field2": "Tag",
+      "field3": "He joined the server on:",
+      "field4": "Ban Day",
+      "field5": "Bot Name",
+      "field6": "Ban Author",
+      "field7": "Channel",
+      "field8": "Discord",
+      "field9": "ID",
+      "field10": "Command Used",
+      "field11": "ID of message",
+      "description": "BAN PANEL",
+      "field12": "Data of event",
+      "reason2": "Reason",
+      "logcanal": "This server has no channel defined please use `modconfig set` to set a banch channel.",
+      "sucesso": "The user has been banned successfully check the channel set to bans to collect all the information"
+    }
+  },
+  "kick": {
+    "sucesso": "The user was kicked with sucess!",
+    "rank": "The position of that person must be greater than mine.",
+    "send": "I can not kick this guy out.",
+    "mençao": "Mention who you want to kick.",
+    "perm": "Without Permission",
+    "erro": "There must have been some mistake with the command"
+  },
+  "modconfig": {
+    "send1": "Enter the `NAME or ID` of the channel you want to set for banners.",
+    "send2": "Channel not found.",
+    "send3": "The channel for banishment was defined in:",
+    "send4": "Config reseted!"
+  },
+  "mute": {
+    "embed": {
+      "description": "Hello, to mutate type: `NomeComando + @usuario + razon`",
+      "razao": "No reason was said.",
+      "role": "I could not find the role Jarvis Muted",
+      "mutado": "This user is already mutated",
+      "description2": "He was mutated for the reason:",
+      "perm": "My permissions are not enough to mutate it",
+      "perm2": "You do not have permission to run this command"
+    }
+  },
+  "unmute": {
+    "embed": {
+      "description": "Hello, to remove the mute type: `NomeComando + @ usuario`",
+      "description2": "This user is not mutated.",
+      "description3": "Mention the user who wants to remove the mute.",
+      "description4": "It was unmuted by:",
+      "perm": " My permissions are not enough to unmute him",
+      "perm2": "You do not have the requirements to remove mutes."
+    }
+  },
+  "join": {
+    "connect": "I am not allowed to connect to this channel.",
+    "voice": "I joined the channel:",
+    "send": "Enter a voice channel so I can join as well."
+  },
+  "leave": {
+    "description1": "I'm already playing a song, use the stop command to stop:",
+    "description2": "I'm on radio live",
+    "description3": "I disconnected from the channel:",
+    "description4": "Connect here with me on the same channel",
+    "description5": "To use leave connect on the channel.",
+    "description6": "I'm not connected to any channel."
+  },
+  "np": {
+    "embed": {
+      "title": "Playing now",
+      "field": "Name of the song",
+      "field2": "Asked by:"
+    },
+    "send1": "**There is no music playing**",
+    "send2": "To use the NP must be connected to the same channel",
+    "send3": "No music it's playing",
+    "send4": "Connect to a voice channel"
+  },
+  "pause": {
+    "send": "No music playing.",
+    "send1": "Connect to a voice channel",
+    "send2": "We're not on the same channel.",
+    "send3": "No music playing",
+    "send4": "No music in the queue"
+  },
+  "queue": {
+    "description": "Playing",
+    "field": "Playlist",
+    "field2": "Request By:",
+    "page": "Page",
+    "of": "of"
+  },
+  "resume": {
+    "send": "No music paused",
+    "send2": "No songs paused in the list",
+    "send3": "To use the command connect to the channel",
+    "send4": "You are not on the same channel",
+    "send5": "No music playing."
+  },
+  "skip": {
+    "send": "I skipped the music",
+    "send2": "No music playing",
+    "send3": "No music on the list"
+  },
+  "stop": {
+    "send": "No music stopped.",
+    "send2": "Connect to a voice channel",
+    "send3": "No music playing",
+    "send4": "You're not on the same channel as me.."
+  },
+  "play": {
+    "description": "No permission to enter this channel",
+    "description2": "I can not sing here",
+    "description3": "Invalid link",
+    "title": "Playlist Added row",
+    "description5": "Name",
+    "description6": "Number of songs:",
+    "description7": "Order by:",
+    "description8": "This playlist does not exist or is in private mode.",
+    "search": "Searching Results",
+    "results": "Making the list",
+    "error": "No music found",
+    "title2": "Playlist",
+    "footer": "You have 15 seconds to choose a song",
+    "cancel": "To cancel your search, type `cancel` in chat",
+    "escolha": "Choose",
+    "invalid": "Choice invalid",
+    "time": "The time of 15 seconds is over, search again",
+    "connect": "Connect to channel",
+    "error2": "I could not connect to your channel.",
+    "field1": "Music added to the queue.",
+    "field2": "Added by:",
+    "field3": "Duration:",
+    "field4": "Canceling Operation...",
+    "field5": "Operation canceled successfully.",
+    "field6": "thanks for listen :)",
+    "embed": {
+      "Autor": "Song Author :",
+      "tocando": "Currently Playing:",
+      "genero": "Genre",
+      "addby": "Request By:",
+      "view": "Views",
+      "likes": "Likes",
+      "deslike": "Deslikes",
+      "dura": "Music Duration"
+    }
+  },
+  "radio": {
+    "send1": "No radio playing",
+    "embed": {
+      "title": "Live Radio",
+      "field": "Current Radio",
+      "field1": "Resquest By:",
+      "footer": "Rádio From ==>"
+    },
+    "footer2": "To play a radio, use the command \nradio play [ID] or [Name] of the desired radio",
+    "title2": "Available radio stations",
+    "br": "Brazillian Stations",
+    "na": "American Stations",
+    "pt": "Portugal Stations",
+    "vn": "Venezuela Stations",
+    "ru": "Russian Stations",
+    "help": "How use radio?",
+    "list": "To know the radio list use:",
+    "playr": "To play radio use:",
+    "embedradio": {
+      "title3": "Brazil",
+      "title4": "America",
+      "title5": "Portugal",
+      "title6": "Venezuela",
+      "title7": "Russia"
+    }
+  },
+  "avatar": {
+    "send1": "Mention a user",
+    "title": "Profile Picture"
+  },
+  "cal": {
+    "send1": "insert a math question",
+    "erro": "Error",
+    "field": "Question",
+    "field2": "Result"
+  },
+  "clear": {
+    "embed1": "Use: `clear [2-100]`",
+    "embed2": "Use`**clear**[2-100]`",
+    "embed3": "Chat cleared by:",
+    "embed4": "Messages:",
+    "embed5": "Messages that have been sent for more than ** 14 ** days can not be deleted.",
+    "embed6": "I'm not allowed to clear this chat.",
+    "permission": "you must have manage_messages permission to use the clean command"
+  }
+}

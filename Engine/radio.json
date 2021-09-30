@@ -1,0 +1,200 @@
+[
+    {
+        "id": 1,
+        "name": "Radio Grodno",
+        "url": "http://178.124.203.233:8000/ogg",
+        "pais": "USA"
+    },
+    {
+        "id": 2,
+        "name": "RMFMaxxx",
+        "url": "http://217.74.72.4:8000/rmf_maxxx",
+        "pais": "USA"
+    },
+    {
+        "id": 3,
+        "name": "Radio Plus (ESKA)",
+        "url": "https://juby210.com.pl/radio.php?n=radio-plus",
+        "pais": ""
+    },
+    {
+        "id": 4,
+        "name": "Radio ZET",
+        "url": "http://zetpl1-01.cdn.eurozet.pl:8446/",
+        "pais": "USA"
+    },
+    {
+        "id": 5,
+        "name": "ZET Party",
+        "url": "http://zetpar-02.cdn.eurozet.pl:8444/",
+        "pais": "USA"
+    },
+    {
+        "id": 6,
+        "name": "ZET Hits",
+        "url": "http://zethit-01.cdn.eurozet.pl:8428/",
+        "pais": "USA"
+    },
+    {
+        "id": 7,
+        "name": "ZET Hot",
+        "url": "http://zet.cdn.eurozet.pl/ZETHOT.mp3",
+        "pais": "USA"
+    },
+    {
+        "id": 8,
+        "name": "ZET Gold",
+        "url": "http://zgl.cdn.eurozet.pl/ZGLHIT.mp3",
+        "pais": "USA"
+    },
+    {
+        "id": 9,
+        "name": "Coca-Cola FM",
+        "url": "https://ic.imusicaradios.com.br/brasil.stream.http",
+        "pais": "Brasil"
+    },
+    {
+        "id": 10,
+        "name": "Mix FM",
+        "url": "http://mixmp3.crossradio.com.br:1102/live",
+        "pais": "Brasil"
+    },
+    {
+        "id": 11,
+        "name": "Metropolitana 98.5 FM ",
+        "url": "http://ice.paineldj3.com.br:8004/stream",
+        "pais": "Brasil"
+    },
+    {
+        "id": 12,
+        "name": "Jovem Pan FM",
+        "url": "http://servidor26.brlogic.com:8008/live",
+        "pais": "Brasil"
+    },
+    {
+        "id": 13,
+        "name": "Atlantida FM",
+        "url": "http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8",
+        "pais": "Brasil"
+    },
+    {
+        "id": 14,
+        "name": "Radio Web Conectados - FUNSAI",
+        "url": "http://216.245.204.226:8126/live",
+        "pais": "Brasil"
+    },
+    {
+        "id": 15,
+        "name": "Blink 102 - Campo Grande MS ",
+        "url": "http://184.154.89.186:9002/;stream.nsv",
+        "pais": "Brasil"
+    },
+    {
+        "id": 16,
+        "name": "Radio cidade Anos 80 - Rio de Janeiro",
+        "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/OITENTONAAAC.aac?dist=onlineradiobox",
+        "pais": "Brasil"
+    },
+    {
+        "id": 17,
+        "name": "Radio Litoral FM - Espirito Santo",
+        "url": "http://120045b.ha.azioncdn.net/0045b/_definst_/lfmv.sdp/chunklist_1a669e18-28cb-408f-a4c7-a0612cfede2f.m3u8",
+        "pais": "Brasil"
+    },
+    {
+        "id": 18,
+        "name": "Radio PQP - Rondonópolis MT",
+        "url": "http://158.69.25.64:8486/live",
+        "pais": "Brasil"
+    },
+    {
+        "id": 19,
+        "name": "Radio Mega 99 FM - Rondonópolis MT",
+        "url": "http://198.50.197.90:6089/;",
+        "pais": "Brasil"
+    },
+    {
+        "id": 20,
+        "name": "Radio FM Lisboa",
+        "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/RFM_SC?dist=onlineradiobox",
+        "pais": "Portugal"
+    },
+    {
+        "id": 21,
+        "name": "MIX 106.1 FM",
+        "url": "http://streaming3.globalhost.net.ve:9150/;",
+        "pais": "Venezuela"
+    },
+    {
+        "id": 22,
+        "name": "Rumba FM 98.1",
+        "url": "http://srv2.plugstreaming.com:8401/stream;",
+        "pais": "Venezuela"
+    },
+    {
+        "id": 23,
+        "name": "Европа Плюс - Europa Plus",
+        "url": "https://hls-02-europaplus.emgsound.ru/11/128/playlist.m3u8",
+        "pais": "Russia"
+    },
+    {
+        "id": 24,
+        "name": "Радио Рекорд",
+        "url": "http://air.radiorecord.ru:8101/rr_320",
+        "pais": "Russia"
+    },
+    {
+        "id": 25,
+        "name": "Радио Energy",
+        "url": "http://ic2.101.ru:8000/v1_1",
+        "pais": "Russia"
+    },
+    {
+        "id": 27,
+        "name": "181.FM The Buzz (Alt. Rock)",
+        "url": "http://listen.181fm.com/181-buzz_128k.mp3?noPreRoll=true",
+        "pais": "USA"
+    },
+    {
+        "id": 28,
+        "name": "Hard Rock Radio",
+        "url": "http://3634.cloudrad.io/stream/1/?extReferer=http%3a%2f%2fwww.hardradio.com%2fplayer.php3&amp;lang=ru-RU%2cru%3bq%3d0.8%2cen-US%3bq%3d0.6%2cen%3bq%3d0.4&amp;ad=radiono5",
+        "pais": "USA"
+    },
+    {
+        "id": 29,
+        "name": "Radio Jovem POP [NCS]",
+        "url": "https://live.radiojovempop.com/JOVEMPOP_NCSPOPMUSIC_128K",
+        "pais": "Brasil"
+    },
+    {
+        "id": 30,
+        "name": "Radio Jovem POP [EDM]",
+        "url": "https://live.radiojovempop.com/JOVEMPOP_EDM_40K",
+        "pais": "Brasil"
+    },
+    {
+        "id": 31,
+        "name": "Brazil Rock 89.FM",
+        "url": "https://cdn.live.nextdial.com.br/listen/aradiorock?aid=5a68b8535685506477702e9f",
+        "pais": "Brasil"
+    },
+    {
+        "id": 32,
+        "name": "Raizes do Brasil [Sertaneja]",
+        "url": "http://45.43.208.42:13544/;",
+        "pais": "Brasil"
+    },
+    {
+        "id": 33,
+        "name": "Brasil [Funk]",
+        "url": "http://192.99.150.31:9089/stream",
+        "pais": "Brasil"
+    },
+    {
+        "id": 34,
+        "name": "Classic Country",
+        "url": "http://198.105.216.204:8194/stream",
+        "pais": "USA"
+    }
+]

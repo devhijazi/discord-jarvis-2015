@@ -1,0 +1,398 @@
+{
+  "jarvis": {
+    "embed": {
+      "field1": "Dono",
+      "field2": "Criado Em",
+      "field3": "Prefixo Setado",
+      "field4": "Servidores",
+      "field5": "Usuários",
+      "field6": "Canais",
+      "field7": "Tempo Online",
+      "field8": "Desenvolvido Em:",
+      "field9": "Latência do Bot",
+      "field10": "Uso da Cpu",
+      "field11": "Arquitetura",
+      "field12": "Versão atual do Jarvis",
+      "field13": "Meus Links"
+    }
+  },
+  "autorole": {
+    "send1": "Autorole configurado para:",
+    "send2": "Meu cargo deve estar abaixo",
+    "send3": ":x: Por favor mencione o cargo que você quer setar.",
+    "send4": " :x: Por favor mencione o cargo que você quer setar.",
+    "send5": "O sistema autorole foi desativado nesse servidor!",
+    "send6": "Não há nenhum autorole configurado para esse servidor.",
+    "embed": {
+      "description": "Status da Autorole"
+    },
+    "send7": "Sua forma de usar pode estar errada certifique-se que usou corretamente.",
+    "send8": "Ocorreu um erro ao executar este comando.",
+    "send9": "Não tenho permissão.",
+    "send10": "Aconteceu um erro inexperado."
+  },
+  "byebye": {
+    "status": "Status de saída de membros:",
+    "status2": "Status de saída de membros:",
+    "channel": "Digite o ID ou o Nome do canal que você deseja configurar a saída.",
+    "channel2": "Canal não encontrado.",
+    "setado": "Canal de saída salvo no Banco de Dados",
+    "setstatus": "Canal Pronto Status [OK!]",
+    "msgset": "A mensagem de saída ficou:"
+  },
+  "welcome": {
+    "status": "Status de Bem vindo aos membros:",
+    "status2": "Status de Bem vindo aos membros:",
+    "channel": "Digite o ID ou o Nome do canal que você deseja configurar o Bem vindo",
+    "channel2": "Canal não encontrado.",
+    "setado": "Canal de Bem vindo salvo no Banco de Dados",
+    "setstatus": "Canal Pronto Status [OK!]",
+    "msgset": "A mensagem de Bem vindo ficou:",
+    "msg1": "exemplo bem vindo {member} ao {guild}",
+    "msgerro": "Mensagem errada."
+  },
+  "prefix": {
+    "send1": "Diga o prefixo que você quer.",
+    "send2": "Prefixo configurado para:"
+  },
+  "config": {
+    "embed": {
+      "title": "Configurações Disponiveis",
+      "config1": "Anti-Convite",
+      "config2": "Bem-vindo",
+      "config3": "Saída",
+      "config4": "Autorole",
+      "config5": "Membros no Topico",
+      "config6": "Prefixo atual",
+      "uso1": "Use o anti-convite para previnir seu servidor contra spam de outros servidores.",
+      "uso2": "Configure uma mensagem de Boas vindas a novos usuários",
+      "uso3": "Configure uma mensagem de Saida para membros.",
+      "uso4": "Defina um cargo para entrada de novos usuários.",
+      "uso5": "Coloque um contador de membros no topo do canal.",
+      "uso6": "Configure um prefixo customizado para seu servidor."
+    }
+  },
+  "count": {
+    "warn": "Desculpe você precisa ter permissões de ADMINSTRADOR para configurar esse comando.",
+    "send1": "Configuração [OK]",
+    "comando": "Membros no Topo",
+    "canal": "definido no canal:",
+    "error": "Aconteceu algum erro, tente novamente!",
+    "erro2": "Infelizmente não consegui configurar por algum erro."
+  },
+  "emoji": {
+    "embed": {
+      "title": "Detalhes do Emoji",
+      "field1": "Emoji do Discord",
+      "field2": "Animado ?",
+      "field3": "Data em que foi adiconado.",
+      "export": "Codigo de exportação",
+      "footer": "Pedido por:",
+      "title2": "Não encontrado",
+      "description": "Talvez o emoji que você está procurando não existe no discord ou você está usando o comando errado."
+    }
+  },
+  "roleinfo": {
+    "embed": {
+      "description": "Escreva o nome de uma Tag valida",
+      "field1": "Nome",
+      "field2": "Usuários que possuem:",
+      "field3": "Mencionável?",
+      "field4": "Data de criação:"
+    }
+  },
+  "serverinfo": {
+    "embed": {
+      "field1": "Fundador",
+      "field2": " Região",
+      "field3": "Servidor Emojis",
+      "field4": "Criado em",
+      "field5": "Canais de Textos",
+      "field6": "Total de Membros",
+      "field7": "Pessoas online",
+      "field8": "Total de Cargos",
+      "fields": "Total de Bots",
+      "before1": "canais",
+      "before2": "Membros",
+      "before3": "Cargos"
+    }
+  },
+  "userinfo": {
+    "embed": {
+      "title": "Informações de Usuário.",
+      "field1": "Nome",
+      "field2": "Criou a conta em:",
+      "field3": "Entrou no server em :",
+      "field4": "Apelido",
+      "field5": "Jogando",
+      "field6": "Ultima mensagem",
+      "field7": "ID da ultima mensagem",
+      "field8": "Cargos",
+      "footer": "Informações sobre usuários"
+    }
+  },
+  "anime": {
+    "embed": {
+      "field1": "Atividade",
+      "field2": "Tipo",
+      "field3": "Total de Episódios",
+      "field4": "Duração",
+      "field5": "Avaliação",
+      "field6": "Vinculação",
+      "field7": "Reputação",
+      "field8": "Popularidade",
+      "field9": "Classificação",
+      "field10": "Membros",
+      "field11": "Pontuação",
+      "field12": "Gênero",
+      "field13": "Idade",
+      "title": "Nenhum Anime foi encontrado.",
+      "link": "Clique aqui.",
+      "modo": "Para usar digite o comando e depois o nome do Anime desejado."
+    }
+  },
+  "announce": {
+    "embed": {
+      "description1": "Você não tem permissão para usar esse comando. :x:",
+      "description2": "Eu não estou com permissoes de Adminstração nesse servidor.",
+      "description3": "Informe o ID de um canal para criar a tabela.",
+      "description4": "Você não digitou nada, não posso prosseguir, tente novamente...",
+      "title": "ANÚNCIO",
+      "footer": "Enviado por",
+      "error": "Desculpa o canal está incorreto."
+    }
+  },
+  "csgo": {
+    "embed": {
+      "title": "INFORMAÇÕES - CSGO",
+      "field1": "Total do KD [Abates e Mortes]",
+      "field3": "% de Vitórias",
+      "field4": "Total de Reféns Resgatados",
+      "field5": "Total de dinheiro",
+      "field6": "Pontuação",
+      "field7": "Total de Abates",
+      "field8": "Total de Mortes",
+      "field9": "Melhor jogador da Partida MVP",
+      "field10": "Bombas plantadas",
+      "field11": "Bombas Defusadas",
+      "field12": "Tiros na cabeça"
+    }
+  },
+  "poll": {
+    "embed": {
+      "role": "Permissões invalidas",
+      "uso": "!poll <perguntaaqui>",
+      "footer": "Clique nas reações abaixo.",
+      "title": "Votação inciada por:"
+    }
+  },
+  "say": {
+    "description": "Diga-me oque falar..."
+  },
+  "lang": {
+    "send1": "Este idioma já está **ativado**",
+    "sendpt": "O Idioma foi alterado para **Portugues - BRASIL**",
+    "sendna": "O idioma foi alterado para **Inglês - Americano**",
+    "title": "Painel de Idiomas",
+    "field": "Idioma Atual",
+    "description": "Opções Disponíveis"
+  },
+  "ban": {
+    "send": "Jarvis está sem permissão para banir alguém.",
+    "permissão": "PARE!, certifique-se que a função `BAN_MEMBERS` esteja ativada no seu cargo.",
+    "reason": "Quem você deseja banir ? e qual a razão?",
+    "send1": "Eu não estou conseguindo banir este usuário, confira todas as permissões pode haver algum problema.",
+    "embed": {
+      "title": "Banimento",
+      "field1": "Usuário Banido",
+      "field2": "Tag",
+      "field3": "Ele entrou no Servidor em:",
+      "field4": "Dia do Ban",
+      "field5": "Bot responsável pelo Ban",
+      "field6": "Autor do Ban",
+      "field7": "Canal do evento.",
+      "field8": "Discord",
+      "field9": "ID do usuário banido",
+      "field10": "Comando do autor",
+      "field11": "ID da mensagem",
+      "description": "TELA DE BANIMENTO",
+      "field12": "Data registrada do evento",
+      "reason2": "Motivo do banimento.",
+      "logcanal": "Este servidor não tem nenhum canal definido por favor use `modconfig set` para definir um canal de banimentos.",
+      "sucesso": "O usuário foi banido com sucesso confira o canal setado para bans para coletar todas as informações."
+    }
+  },
+  "kick": {
+    "sucesso": "Usuário foi expulso com sucesso!",
+    "rank": "O cargo dessa pessoa deve ser maior que o meu.",
+    "send": "Não consigo expulsar esse cara.",
+    "mençao": "Mencione quem voce deseja expulsar.",
+    "perm": "Sem permissão",
+    "erro": "Deve ter acontecido algum erro com o comando."
+  },
+  "modconfig": {
+    "send1": "Digite o `NOME ou ID` do canal que você deseja definir para banimentos.",
+    "send2": "O canal não foi encontrado.",
+    "send3": "O canal para banimentos foi definido em:",
+    "send4": "Configuração Resetada!"
+  },
+  "mute": {
+    "embed": {
+      "description": "Olá, para mutar digite: `NomeComando + @usuario + razão`",
+      "razao": " Nenhum motivo foi dito.",
+      "role": "Não consegui encontrar o cargo Jarvis Muted",
+      "mutado": "Este usuário ja está mutado",
+      "description2": "Ele foi mutado pelo motivo:",
+      "perm": " Minhas permissões não são suficientes para muta-lo",
+      "perm2": "Você não tem permissão para executar esse comando"
+    }
+  },
+  "unmute": {
+    "embed": {
+      "description": "Olá, para remover o mute  digite: `NomeComando + @usuario`",
+      "description2": "Este usuário não está mutado.",
+      "description3": "Mencione o usuário que deseja remover o mute.",
+      "description4": "Foi desmutado por:",
+      "perm": "Minhas permissões não são suficientes para desmuta-lo",
+      "perm2": "Você não possui os requisitos para remover mutes."
+    }
+  },
+  "join": {
+    "connect": "Não tenho permissão para conectar a este canal.",
+    "voice": "Entrei no canal:",
+    "send": "Entre em um canal de voz para que eu possa me juntar também."
+  },
+  "leave": {
+    "description1": "Ja estou tocando uma musica use o comando stop para parar:",
+    "description2": "Estou em radio ao vivo",
+    "description3": "Desconectei do canal:",
+    "description4": "Conecte aqui comigo no mesmo canal",
+    "description5": "Para usar o leave conecte no canal.",
+    "description6": "Eu não estou conectado a nenhum canal."
+  },
+  "np": {
+    "embed": {
+      "title": "Tocando Agora",
+      "field": "Nome da Música",
+      "field2": "Solicitado por:"
+    },
+    "send1": "**Não tem nenhuma musica tocando**",
+    "send2": "Para usar o NP precisa estar conectado no mesmo canal",
+    "send3": "Nenhuma música está tocando",
+    "send4": "Conecte a um canal de voz"
+  },
+  "pause": {
+    "send": "Nenhuma música tocando.",
+    "send1": "Conecte-se a um canal de voz",
+    "send2": "Nós não estamos no mesmo canal",
+    "send3": "Nenhuma música tocando",
+    "send4": " Nenhuma musica na fila"
+  },
+  "queue": {
+    "description": "Tocando",
+    "field": "Lista de músicas",
+    "field2": "Solicitado por:",
+    "page": "Página",
+    "of": "De"
+  },
+  "resume": {
+    "send": "Nenhuma música pausada",
+    "send2": "Nenhuma musica pausada na lista",
+    "send3": "Para usar o comando conecte ao canal",
+    "send4": "Você não está no mesmo canal",
+    "send5": "Nenhuma música tocando."
+  },
+  "skip": {
+    "send": "Pulei a música",
+    "send2": "Nenhuma música tocando",
+    "send3": "Nenhuma musica na lista"
+  },
+  "stop": {
+    "send": "Nenhuma música parada.",
+    "send2": "Conecte-se a um canal de voz",
+    "send3": "Nenhuma musica tocando",
+    "send4": "Você não está no mesmo canal que eu."
+  },
+  "play": {
+    "description": "Sem permissão para entrar nesse canal",
+    "description2": "Não consigo cantar aqui",
+    "description3": "Link invalido",
+    "title": "Playlist Adicionada a fila",
+    "description5": "Nome",
+    "description6": "Número de músicas:",
+    "description7": "Pedido por:",
+    "description8": "Esta playlist não existe ou está em modo privado.",
+    "search": "Buscando Resultados",
+    "results": "Fazendo a lista",
+    "error": "Nenhuma música foi encontrada",
+    "title2": "Lista de música",
+    "footer": "Você tem 15 segundos para escolher uma música",
+    "cancel": "Para cancelar sua pesquisa digite `cancel` no chat",
+    "escolha": "Escolha",
+    "invalid": "Escolha inválida",
+    "time": "O tempo de 15 segundos acabou,pesquise novamente",
+    "connect": "Conecte-se ao canal",
+    "error2": "Eu não consegui me contectar ao seu canal.",
+    "field1": "Música adicionada à fila.",
+    "field2": "Adicionada por:",
+    "field3": "Duração:",
+    "field4": "Cancelando Operação...",
+    "field5": "Operação cancelada com sucesso.",
+    "field6": "A música acabou :)",
+    "embed": {
+      "Autor": "Nome do Cantor :",
+      "tocando": "Tocando Agora:",
+      "genero": "Gênero",
+      "addby": "Adicionada(o) Por:",
+      "view": "Vizualizações",
+      "likes": "Curtidas",
+      "deslike": "Deslikes",
+      "dura": "Duração da Música"
+    }
+  },
+  "radio": {
+    "send1": "Nenhuma rádio tocando",
+    "embed": {
+      "title": "Rádio ao vivo",
+      "field": "Tocando a rádio:",
+      "field1": "Solicitada(o) por:",
+      "footer": "Rádio do ==>"
+    },
+    "footer2": "Para reproduzir uma radio use o comando,\nradio play [ID] ou [Nome] da radio desejada",
+    "title2": "Estações de rádio Disponíveis",
+    "br": "Estações Brasileiras",
+    "na": "Estações Americanas",
+    "pt": "Estações de Portugal",
+    "vn": "Estações da Venezuela",
+    "ru": "Estações Russas",
+    "help": "Como usar a rádio?",
+    "list": "para saber a lista use:",
+    "playr": "Para reproduzir use:",
+    "embedradio": {
+      "title3": "Radios Brasileiras",
+      "title4": "Radios Americanas",
+      "title5": "Radios Portuguesas",
+      "title6": "Estações Venezuelanas",
+      "title7": "Estações Russas"
+    }
+  },
+  "avatar": {
+    "send1": "Mencione um usuário",
+    "title": "Foto de Perfil"
+  },
+  "cal": {
+    "send1": "Digite alguma equação para que eu possa resolver",
+    "erro": "Equação Invalida",
+    "field": "Problema",
+    "field2": "Solução"
+  },
+  "clear": {
+    "embed1": "Use `limpar [2-100]`",
+    "embed2": "Use`**clear** ou **limpar** [2-100]`",
+    "embed3": "Chat foi limpo por:",
+    "embed4": "Mensagens deletadas:",
+    "embed5": "Mensagens que foram enviadas há mais de **14** dias não poderão ser deletadas.",
+    "embed6": "eu não tenho permissão para limpar este chat.",
+    "permission": "você precisa ter permissão de manage_messages para usar o comando limpar"
+  }
+}
